@@ -6,7 +6,7 @@ import seaborn as sns
 
 st.set_page_config(page_title="PhonePe Insights Dashboard", layout="wide")
 
-st.title("📊 PhonePe Transaction Insights Dashboard (Correct Analysis)")
+st.title("📊 PhonePe Transaction Insights Dashboard")
 
 # -------------------------------
 # DB CONNECTION
